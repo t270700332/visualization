@@ -10,6 +10,7 @@ echarts图表跟自己的数据库的数据相关联,将数据通过图表表现
 ![1615778151(1)](https://user-images.githubusercontent.com/31812211/111100708-4d5bbd80-8583-11eb-9357-63d9fd27ccc7.jpg)
 ![1615779678(1)](https://user-images.githubusercontent.com/31812211/111100745-61072400-8583-11eb-99bb-8a13e28f50c0.jpg)
 ![1615778176(1)](https://user-images.githubusercontent.com/31812211/111109202-3f169d00-8595-11eb-982e-40190e4ad232.jpg)
+![1615779678(1)](https://user-images.githubusercontent.com/31812211/111110079-dfb98c80-8596-11eb-849d-2181cd5c59c6.jpg)
 主页面为数据的展示：包括可视化、连接数据库的数据以及报表数据，除此之外还可以分享可视化页面。
 
 创建大屏
@@ -27,5 +28,8 @@ echarts图表跟自己的数据库的数据相关联,将数据通过图表表现
 ======
 ![1615779433(1)](https://user-images.githubusercontent.com/31812211/111109922-95381000-8596-11eb-9641-53d4c971412d.jpg)
 
-
-
+报表设计页面
+=====
+![1615779561(1)](https://user-images.githubusercontent.com/31812211/111110051-d16b7080-8596-11eb-9131-35545a9fd0aa.jpg)
+![1615779578(1)](https://user-images.githubusercontent.com/31812211/111110061-d7f9e800-8596-11eb-80bd-249250ff49bc.jpg)
+主要是通过sql语句再结合报表工具设计成excel展示
