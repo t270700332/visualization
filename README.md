@@ -17,6 +17,15 @@ echarts图表跟自己的数据库的数据相关联,将数据通过图表表现
 ![1615778196(1)](https://user-images.githubusercontent.com/31812211/111108998-daf3d900-8594-11eb-9f7d-17665c6ae630.jpg)
 通过主页面可以创建大屏
 
-大屏设计页面
+可视化设计页面
 ===========
 ![1615779314(1)](https://user-images.githubusercontent.com/31812211/111109133-1bebed80-8595-11eb-985e-6a8c7325dd0e.png)
+![1615779386(1)](https://user-images.githubusercontent.com/31812211/111109676-2c509800-8596-11eb-9e77-47e22d6b7ca1.jpg)
+主要包括了常见的Echarts图表，还有一些特殊动画效果图，右边可以编辑页面和图表的一些属性。
+
+可视化展示
+======
+![1615779433(1)](https://user-images.githubusercontent.com/31812211/111109922-95381000-8596-11eb-9641-53d4c971412d.jpg)
+
+
+
